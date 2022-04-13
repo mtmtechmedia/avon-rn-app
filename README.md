@@ -1,4 +1,4 @@
-# TaipeiActivityGuideList_RN_Interview
+# avon-rn-app
 
 ## Demo Video
 https://youtube.com/shorts/osV5dwYb-3Q?feature=share
