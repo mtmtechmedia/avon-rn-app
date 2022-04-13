@@ -6,7 +6,7 @@ https://youtube.com/shorts/osV5dwYb-3Q?feature=share
 ## How to Start
 
 ```
-git clone https://github.com/Avonee/TaipeiActivityGuideList_RN_Interview.git
+git clone https://github.com/mtmtechmedia/avon-rn-app.git
 ```
 ```
 npm i
